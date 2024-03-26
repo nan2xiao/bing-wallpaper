@@ -25,7 +25,7 @@
 		fetch(e.href, r)
 	}
 })();
-const d = "https://bing.shangzhenyang.com/api";
+const d = "https://bing-wallpaper.pages.dev/api";
 
 function l() {
 	window.open(d + "/1080p")
