@@ -1,3 +1,7 @@
+# 注意
+
+本仓库分叉于 [https://github.com/shangzhenyang/bing-wallpaper](https://github.com/shangzhenyang/bing-wallpaper) 并且已经进行了某些修改。
+
 # bing-wallpaper
 
 A Bing wallpaper API implemented using Cloudflare Pages Functions.
